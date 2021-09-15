@@ -23,7 +23,24 @@ namespace practica2.Controllers
             return View();
         }
 
-       
+       public IActionResult Registro() {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Registro(Registro registro) {
+            Console.WriteLine(registro.nombre);
+            Console.WriteLine(registro.tipo);
+            Console.WriteLine(registro.mensaje);
+            Console.WriteLine(registro.telefono);
+            Console.WriteLine(registro.distrito);
+            Console.WriteLine(registro.direccion);
+            return View();
+        }
+
+        public IActionResult RegistroConfirmacion() {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

@@ -40,3 +40,4 @@ C:\Users\ELIAS\Desktop\practica02\practica02\practica2\obj\Debug\net5.0\ref\prac
 C:\Users\ELIAS\Desktop\practica02\practica02\practica2\obj\Debug\net5.0\practica2.pdb
 C:\Users\ELIAS\Desktop\practica02\practica02\practica2\obj\Debug\net5.0\practica2.genruntimeconfig.cache
 C:\Users\ELIAS\Desktop\practica02\practica02\practica2\obj\Debug\net5.0\practica2.csproj.CopyComplete
+C:\Users\ELIAS\Desktop\practica02\practica02\practica2\obj\Debug\net5.0\Razor\Views\Shared\plantilla.cshtml.g.cs
